@@ -1,4 +1,4 @@
-# Piper_Portfolio
+# Piper Doyle
 
 ## Introduction 
 ### Hello! My name is Piper Doyle. Welcome to my business analytics portfolio.On this page, you will find a compilation of the proects I have completed througout my studies. Thanks for stopping by. 
